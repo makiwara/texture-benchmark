@@ -1,4 +1,4 @@
-INPUT = 'input-long/'
+INPUT = 'input/'
 
 import os
 import subprocess
